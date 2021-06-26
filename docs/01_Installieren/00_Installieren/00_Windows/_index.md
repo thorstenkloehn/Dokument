@@ -7,6 +7,7 @@ setx RUSTUP_HOME  e:\RUSTUP_HOME
 setx TEMP e:\AppData\Local\Temp
 setx TMP e:\AppData\Local\Temp
 setx GOPATH d:\go
+setx Android_SDK_HOME e:\androidsdkhome
 
 
 ```
