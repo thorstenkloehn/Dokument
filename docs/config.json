@@ -5,7 +5,7 @@
   "html": {
     "auto_landing": false,
     "auto_toc": false,
-    "edit_on_github": "github.com/thorstenkloehn/dokument/tree/master/docs",
+    "edit_on_github": "/thorstenkloehn/dokument/tree/master/docs",
     "links": {"Ahrensburg.digital": "https://ahrensburg.digital" }
   }
 }
