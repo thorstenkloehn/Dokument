@@ -38,6 +38,14 @@
 * [Die komplette JavaScript Masterclass: Vom Anfänger zum Profi](https://www.udemy.com/course/javascript-komplett/)
 * [Allgemein Javascript](https://www.tutorialspoint.com/javascript/index.htm)
 
+## Java
+
+* [Der moderne Java-Kurs, vom Anfänger zum Profi](https://www.udemy.com/course/java-training-ullenboom/)
+
+
+## C#
+* [Die komplette C# Masterclass - von 0 auf 100 in 6 Wochen](https://www.udemy.com/course/die-komplette-csharp-masterclass/)
+
 ## Webentwicklung
 
 * [Der große Kurs der Webentwicklung: HTML, CSS, JS, PHP und Co](https://www.udemy.com/course/webentwicklung/)
