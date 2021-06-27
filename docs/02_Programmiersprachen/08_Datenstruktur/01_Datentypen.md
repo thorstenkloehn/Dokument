@@ -170,3 +170,70 @@ unsigned long|	8 bytes |	0 bis 18446744073709551615|
 |Art|Typische Bitbreite|Typischer Bereich|
 |---|------------------|-----------------|
 |bool| 1 Bit|Ja oder nein|
+
+## C#
+### Grundtypen
+#### Ganzzahlige Typen
+|Art|Typischer Bereich|
+|---|-----------------|
+|sbyte|-128 bis 127|
+|short|-32768 bis 32767|
+|int|-2147483648 bis 2147483647|
+|long|-9223372036854775808 bis 9223372036854775807|
+|ushort|0 bis 65535|
+|uint|0 bis 4294967295|
+|ulong|0 bis 18446744073709551615|
+
+#### Gleitkommatypen
+|Art|Typischer Bereich|
+|---|-----------------|
+|float|-3.402823 E38 bis 3.402823 E38|
+|double|-1.79769313486232 E308 bis 1.79769313486232 E308|
+|decimal|+/- 1,0 E-28 bis +/- 7,9 E28|
+#### Zeichen
+
+|Art|Präzisio|
+|---|-------|
+|char|Zeichen|
+
+#### Boolean
+|Art|Typische Bitbreite|Typischer Bereich|
+|---|------------------|-----------------|
+|bool| 1 Bit|Ja oder nein|
+#### Der leere Typ
+
+|Art|Präzisio|
+|---|--------|
+|void|Leere Type|
+
+## Java
+
+### Grundtypen
+#### Ganzzahlige Typen
+|Art|Typischer Bereich|
+|---|-----------------|
+|byte|-128 bis 127|
+|short|-32768 bis 32767|
+|int|-2147483648 bis 2147483647|
+|long|-9223372036854775808 bis 9223372036854775807
+
+#### Boolean
+|Art|Typischer Bereich|
+|---|-----------------|
+|float|+/-1,4E-45 bis +/-3,4E+38|
+|double	+/-4,9E-324 bis +/-1,7E+308|
+#### Zeichen
+
+|Art|Präzisio|
+|---|-------|
+|char|Zeichen|
+
+#### Boolean
+|Art|Typische Bitbreite|Typischer Bereich|
+|---|------------------|-----------------|
+|bool| 1 Bit|Ja oder nein|
+#### Der leere Typ
+
+|Art|Präzisio|
+|---|--------|
+|void|Leere Type|
