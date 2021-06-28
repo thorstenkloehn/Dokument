@@ -81,7 +81,7 @@ sudo apt-get install r-cran-evaluate
 ## PHP 
 ```
 
-sudo apt-get install php php-cli php-mbstring php-xml
+sudo apt-get install php-cli php-mbstring php-xml
 
 ```
 ### Composer
