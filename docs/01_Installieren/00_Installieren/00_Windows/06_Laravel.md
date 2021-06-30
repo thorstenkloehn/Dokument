@@ -47,3 +47,25 @@ npm install
 npm run dev
 
 ```
+
+
+### Mysql Datenbank erstellen 
+
+```
+CREATE DATABASE Lavarel CHARACTER SET 'utf8mb4' COLLATE 'utf8mb4_unicode_ci';
+exit;
+```
+
+### Server Restarten
+
+```
+php artisan config:cache
+```
+
+### Ausführen von Migrationen
+
+```
+
+php artisan migrate
+
+```
