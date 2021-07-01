@@ -57,7 +57,18 @@ fn main() {
 
 
 ```
+"use strict";
+let zahl = 100;
+console.log (" Zahl ausgeben" , zahl)
 
+```
+
+## Python 
+
+```
+
+zahl = 100
+print (zahl)
 
 
 ```
