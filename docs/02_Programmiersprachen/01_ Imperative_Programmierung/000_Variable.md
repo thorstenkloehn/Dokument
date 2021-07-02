@@ -72,3 +72,40 @@ print (zahl)
 
 
 ```
+
+## Java
+
+```
+
+public class main {
+
+    public static void main (String[] args) {
+        int zahl = 100;
+        System.out.println("Ergebnis Ausgeben "+zahl);
+    }
+}
+
+```
+
+## C#
+
+```
+
+using System;
+
+namespace ConsoleApp1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+
+            Int16 ausgabe = 100;
+            Console.WriteLine("Hello World!");
+        }
+    }
+}
+
+
+
+```
