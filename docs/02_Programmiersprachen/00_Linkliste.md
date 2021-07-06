@@ -46,6 +46,9 @@
 ## C#
 * [Die komplette C# Masterclass - von 0 auf 100 in 6 Wochen](https://www.udemy.com/course/die-komplette-csharp-masterclass/)
 
+## PHP 
+* [Laravel Kurs für Einsteiger (deutsch)](https://www.udemy.com/course/laravel-kurs-einsteiger)
+* [PHP Web Development Masterclass 2021 - Jetzt PHP lernen! NEU](https://www.udemy.com/course/php-web-development-masterclass-2021-jetzt-php-lernen/)
 ## Webentwicklung
 
 * [Der große Kurs der Webentwicklung: HTML, CSS, JS, PHP und Co](https://www.udemy.com/course/webentwicklung/)
