@@ -2,7 +2,7 @@
 
 php.ini
 ```
-extension_dir = "E:\php-7.4.19-Win32-vc15-x64\ext"
+extension_dir = "e:\php-7.4.21-Win32-vc15-x64\ext"
 extension=bz2
 extension=curl
 extension=ffi
