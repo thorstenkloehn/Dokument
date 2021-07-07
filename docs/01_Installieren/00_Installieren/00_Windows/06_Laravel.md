@@ -47,3 +47,15 @@ npm install
 npm run dev
 
 ```
+
+
+### Datenbank 
+
+
+``
+
+php artisan config:clear
+
+
+
+``
