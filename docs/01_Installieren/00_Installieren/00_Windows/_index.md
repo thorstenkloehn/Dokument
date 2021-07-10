@@ -49,6 +49,7 @@ pacman -S mingw-w64-x86_64-toolchain base-devel mingw-w64-x86_64-cmake  mingw-w6
 * [Rust](https://www.rust-lang.org/)
 * [PHP](https://www.php.net/)
 * [Composer](https://getcomposer.org/)
+* [Dotnet](https://dotnet.microsoft.com/download/dotnet)
 
 
 ## IDE
