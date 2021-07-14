@@ -4,5 +4,7 @@
 /C#/01_Lektion/obj
 /C#/01_Lektion/bin
 /.vscode
-
-
+/C#/Lektion_2/obj/
+/C#/Lektion_2/bin/
+/rust/Lektion_1/target/
+/rust/Lektion_2/target/
