@@ -41,11 +41,11 @@
 ## Java
 
 * [Der moderne Java-Kurs, vom Anfänger zum Profi](https://www.udemy.com/course/java-training-ullenboom/)
-
+* [Allgemein Java](https://www.tutorialspoint.com/java/index.htm)
 
 ## C#
 * [Die komplette C# Masterclass - von 0 auf 100 in 6 Wochen](https://www.udemy.com/course/die-komplette-csharp-masterclass/)
-
+* [Allgemein C#](https://www.tutorialspoint.com/csharp/index.htm)
 
 ## Webentwicklung
 
