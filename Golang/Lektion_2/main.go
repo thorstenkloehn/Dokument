@@ -3,5 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Hallo Leute")
+	const zahl int = 100
+
+	fmt.Println(zahl)
 }
