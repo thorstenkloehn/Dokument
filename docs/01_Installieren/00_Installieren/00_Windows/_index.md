@@ -57,7 +57,7 @@ pacman -S mingw-w64-x86_64-toolchain base-devel mingw-w64-x86_64-cmake  mingw-w6
 
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/) Erste Installieren und Starten
 * [CLion](https://www.jetbrains.com/clion/)
-
+* [Rider](https://www.jetbrains.com/rider/)
 
 ## Quelltext-Editor
 
